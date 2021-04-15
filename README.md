@@ -45,6 +45,20 @@ DBのuser_apikey_flagが、「１」ならsetting.phpにブラウザ入力され
 
 
 用意したファイル＝ebay_auth.php
-ebay user nameの取得はできていますが、上記エラーが解決できません。
+ebay user nameの取得はできていますが、上記２.エラーが解決できません。
 
-用意したファイル＝ebay_auth.php
+用意したファイル＝auto_getlisting.php
+ebay userのアクティブ出品リストを取得するファイルです。取得はできています。
+
+用意したファイル＝auto_getlisting.php
+ebay userのアクティブ出品リストを取得するファイルです。取得はできています。
+
+用意したファイル＝get_category.php
+ebay USの旧カテゴリーを取得する記述です。
+取得後はDBに保存していました。（No,category name, category id, version ）
+2020/10月頃に新しくなった新カテゴリーが取得できないです。
+
+
+
+
+
