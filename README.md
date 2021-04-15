@@ -50,9 +50,6 @@ ebay user nameの取得はできていますが、上記２.エラーが解決�
 用意したファイル＝auto_getlisting.php
 ebay userのアクティブ出品リストを取得するファイルです。取得はできています。
 
-用意したファイル＝auto_getlisting.php
-ebay userのアクティブ出品リストを取得するファイルです。取得はできています。
-
 用意したファイル＝get_category.php
 ebay USの旧カテゴリーを取得する記述です。
 取得後はDBに保存していました。（No,category name, category id, version ）
